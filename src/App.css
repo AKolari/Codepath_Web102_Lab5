@@ -1,0 +1,33 @@
+/* Body selector */
+body {
+  background-color: black;
+  color: white; /* To ensure text is visible against the black background */
+}
+
+/* .icons class selector for icon images */
+.icons {
+  padding-right: 10px;
+  width: 30px;
+  height: 30px;
+}
+
+/* ul selector */
+ul {
+  list-style: none;
+  margin: 25px 50px 75px 30px;
+}
+
+/* li.main-list selector */
+li.main-list {
+  padding: 25px;
+  border-bottom: solid 3px white;
+  font-size: larger;
+}
+
+/* .whole-page class selector */
+.whole-page {
+  padding: 50px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
